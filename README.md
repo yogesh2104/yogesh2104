@@ -1,5 +1,6 @@
 ### Hello I'm Yogesh Singh👋
 -  I’m looking to collaborate on Django.
+-  Currently learning ReactJS.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm half Finnish.
 
