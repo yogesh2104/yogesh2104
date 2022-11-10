@@ -1,10 +1,26 @@
-### Hello I'm Yogesh Singh👋
+<!-- ### Hello I'm Yogesh Singh👋
 -  I’m looking to collaborate on Django.
 -  Currently learning ReactJS.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm half Finnish.
 
+ -->
+ <h1 align="center">Hi 👋, I'm Yogesh Singh</h1>
+<h3 align="center">A passionate frontend developer from India Mainly in ReactJs</h3>
 
+- 🌱 I’m currently learning **React Native,Express.Js**
+
+- 💬 Ask me about **Django, React**
+
+- 📫 How to reach me **singhyogesh2104@gmail.com**
+
+- ⚡ Fun fact: **I'm half Finnish.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+ 
+ 
 <hr>
                                           ## 🧰 Languages and Tools:
 <h3 align="center">Languages and Tools:</h3>
