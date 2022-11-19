@@ -33,7 +33,7 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yogesh2104&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh2104&theme=tokyonight) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yogesh2104&show_icons=true&locale=en" alt="yogesh2104" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh2104&show_icons=true&locale=en&layout=compact" alt="yogesh2104" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api?username=yogesh2104&show_icons=true&locale=en" alt="yogesh2104" /></span>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh2104&show_icons=true&locale=en&layout=compact" alt="yogesh2104" /></span>
 
 
