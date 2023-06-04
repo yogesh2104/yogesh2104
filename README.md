@@ -84,6 +84,4 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh2104&show_icons=true&locale=en&layout=compact" alt="yogesh2104" />
 </span> -->
 
-<div style="width: 100%;">
-  <img src="./myProfile.svg" style="width: 100%;" alt="Yogesh Singh Profile">
-</div>
+
