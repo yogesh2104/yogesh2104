@@ -8,9 +8,9 @@
  <h1 align="center">Hi 👋, I'm Yogesh Singh</h1>
 <h3 align="center">A passionate frontend developer from India Mainly in ReactJs</h3>
 
-- 🌱 I’m currently learning **React Native,Express.Js**
+- 🌱 I’m currently learning **React,NextJs 14,Express.Js**
 
-- 💬 Ask me about **Django, React**
+- 💬 Ask me about **Nodejs,Reactjs,Nextjs,ExpressJs**
 
 - 📫 How to reach me **singhyogesh2104@gmail.com**
 
